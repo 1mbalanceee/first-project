@@ -1,5 +1,5 @@
 
-# Hello! I am Pavel Konovalov ![](https://top-fon.com/uploads/posts/2023-01/1674602149_top-fon-com-p-fon-dlya-prezentatsii-s-kubkom-108.png "")
+# 👋  Hello! I am Pavel Konovalov 
 
 
 ## Researcher, backend programmer
